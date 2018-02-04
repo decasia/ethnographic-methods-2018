@@ -6,7 +6,9 @@
 ## General Description
 
 This module is an introduction to reading and doing ethnography. In anthropology, ethnography refers both to what we do (conducting ethnographic fieldwork) and to what we write (ethnographies) after we return from “the field.” During the course, you will read ethnographies and readings on research methods. The aim is to understand how ethnographic research is conducted, analysed and written up. Through lectures and readings, you will learn about the different approaches to ethnography that have developed over time, and about anthropologists’ debates around the practice and politics of ethnography.
+
 You will try out some of what you learn in class by conducting your own ethnographic fieldwork during the term on a topic of your choice. You will choose a research question that can be answered by doing a small research exercise in an easily accessible and everyday site. In this way you will ideally be able to regularly spend time there throughout the term. But you are not expected to do a lengthy period of fieldwork and the challenge will be to keep this research exercise manageable.
+
 You will also produce a series of short ethnographic analyses about your research where you wrestle with the challenge of interpreting the rich and complex slice of life in which you have been involved and communicating this to others through ideas, stories, images, and/or sounds.
 
 ## About Ethnography
@@ -31,11 +33,11 @@ Ethnography, etymologically, is *writing about people*.
 
 By the end of the course, students will:
 
-— Understand what ethnography is, and its place in anthropology,
-— Understand the essential connection between theory, ethnography and praxis in anthropology,
-— Be familiar with some of the major trends, theoretical approaches and representational strategies to ethnography over the past century,
-— Be able to identify key debates and disputes in the practice of writing ethnography,
-— Have conducted their own ethnographic fieldwork and produced an ethnographic representation of their research.
+- Understand what ethnography is, and its place in anthropology,
+- Understand the essential connection between theory, ethnography and praxis in anthropology,
+- Be familiar with some of the major trends, theoretical approaches and representational strategies to ethnography over the past century,
+- Be able to identify key debates and disputes in the practice of writing ethnography,
+- Have conducted their own ethnographic fieldwork and produced an ethnographic representation of their research.
 
 ## Lecture Times and Venues
 
@@ -56,9 +58,9 @@ Arts 205
 
 ## Contact Details
 
-### Lecturer: Dr. Eli Thorkelson 
-Room 411,  Department of Sociology and Social Anthropology
-Email: elit@sun.ac.za 
+### Lecturer: Dr. Eli Thorkelson   
+Room 411,  Department of Sociology and Social Anthropology  
+Email: elit@sun.ac.za   
 Office Hours: Mondays 13:00-14:00.
 
 ### Tutors
@@ -139,8 +141,8 @@ See also:
 
 #### Feb. 6 - Encounters
 
-Abu-Lughod, Lila. 1995. A tale of two pregnancies. In Women Writing Culture, edited by R. Behar and D. A. Gordon. 339-349. Berkeley: University of California Press.
-Gluckman, Max. 1940. Analysis of a Social Situation in Modern Zululand. Bantu Studies 14 (1):1-30.
+- Abu-Lughod, Lila. 1995. A tale of two pregnancies. In Women Writing Culture, edited by R. Behar and D. A. Gordon. 339-349. Berkeley: University of California Press.
+- Gluckman, Max. 1940. Analysis of a Social Situation in Modern Zululand. Bantu Studies 14 (1):1-30.
 
 
 #### Feb. 7 - Projects
