@@ -167,7 +167,7 @@ The Week 1 Tutorial Exercise will be due Friday, Feb. 9 by 17:00 on SunLearn. It
 
 #### Feb. 12 - Culture and Culturalism
 
-- African National Congress. 1982 [1973]. Cultural in Chains. In The African Liberation Reader, edited by A. de Bragança and I. Wallerstein. 143-147. London: Zed Press.
+- African National Congress. 1982 [1973]. Culture in Chains. In The African Liberation Reader, edited by A. de Bragança and I. Wallerstein. 143-147. London: Zed Press.
 - Fischer, Michael M. J. 2007. Culture and cultural analysis as experimental systems. Cultural Anthropology 22 (1):1-65.
 - Movimento Popular de Libertação de Angola. 1982 [1971]. Cultural Racism. In The African Liberation Reader, edited by A. de Bragança and I. Wallerstein. 139-142. London: Zed Press.
 
