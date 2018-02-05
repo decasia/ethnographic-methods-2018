@@ -194,10 +194,10 @@ We will have an in-class workshop focusing on how we analyze ideologically domin
 #### Feb. 16 - Reflexive Ideology
 
 - Rubin, Gayle. 1975. The Traffic in Women: Notes on the "Political Economy" of Sex. In Toward an Anthropology of Women, edited by R. R. Reiter. 157-210. New York: Monthly Review Press.
-- Sloterdijk, Peter. 1984. Cynicism — The Twilight of False Consciousness. New German Critique 33:190-206.
 
 See also:
 
+- Sloterdijk, Peter. 1984. Cynicism — The Twilight of False Consciousness. New German Critique 33:190-206.
 - Lutz, Catherine. 1995. The gender of theory. In Women Writing Culture, edited by R. Behar. 249-266. Berkeley: University of California Press.
 
 
@@ -253,7 +253,11 @@ The Week 3 Tutorial Exercise will be due Friday, Feb. 23 by 17:00 on SunLearn. I
 ### Week 4 - Contradictions
 
 #### Feb. 26 - Double Consciousness
+- Du Bois, W.E.B. 2007. Of Our Spiritual Strivings. In The Souls of Black Folk. 7-14. Oxford: Oxford University Press.
 - Fanon, Frantz. 2008. Black skin, white masks. New York: Grove Press. (Selection.)
+
+See also:
+
 - Gilroy, Paul. 2012. The Black Atlantic as a Counterculture of Modernity. In The Black Atlantic: Modernity and Double Consciousness. 1-40. New York: Verso.
 
 
@@ -334,12 +338,12 @@ Our tutorial session this week will consist of a forum on critiques of ethnograp
 #### March 13 - Critique of Anthropology
 
 - Berry, Maya, Claudia Chávez Argüelles, Shanya Cordis, Sarah Ihmoud, and Elizabeth Velásquez Estrada. 2017. Toward a Fugitive Anthropology: Gender, Race, and Violence in the Field. Cultural Anthropology 32 (4):537-565.
-- Quinlan, Tim. 2016. ‘Anthropologies of the South’. Critique of Anthropology 20 (2):125-136.
 - Restrepo, Eduardo, and Arturo Escobar. 2005. 'Other anthropologies and anthropologies otherwise': Steps to a world anthropologies framework. Critique of Anthropology 25 (2):99-129.
 
 See also:
 
 - Mullings, Leith. 2005. Interrogating Racism: Toward an Antiracist Anthropology. Annual Review of Anthropology 34 (1):667-693.
+- Quinlan, Tim. 2016. ‘Anthropologies of the South’. Critique of Anthropology 20 (2):125-136.
 - Trouillot, Michel-Rolph. 1991. Anthropology and the savage slot: the poetics and politics of otherness. In Recapturing anthropology: Working in the present, edited by R. G. Fox. 17-44. Santa Fe: School of American Research Press.
 
 
@@ -376,7 +380,8 @@ See also:
 #### March 20 - Photography
 - Wright, Terence. 1992. Photography: Theories of Realism and Convention. In Anthropology and Photography, 1860-1920, edited by E. Edwards. 18-31. New Haven: Yale University Press.
 - Scherer, Joanna C. 1992. The Photographic Document: Photographs as Primary Data in Anthropology Enquiry. In Anthropology and Photography, 1860-1920, edited by E. Edwards. 32-41. New Haven: Yale University Press.
-- Extra participation credit will be allocated to anyone who posts a photograph of social life at Stellenbosch University to the forum on SunLearn. We will then examine these photographs in class.
+
+Extra participation credit will be allocated to anyone who posts a photograph of social life at Stellenbosch University to the forum on SunLearn. We will then examine these photographs in class.
 
 #### March 21 - The unobservable
 - Bessire, Lucas. 2011. Apocalyptic futures: The violent transformation of moral human life among Ayoreo-speaking people of the Paraguayan Gran Chaco. American Ethnologist 38 (4):743-757.
